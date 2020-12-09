@@ -1,0 +1,27 @@
+h1.main-title{
+
+  margin-left: 5rem;
+  margin: 3rem;
+
+}
+
+.main-article{
+  border: 1px solid black;
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+  text-align: right;
+}
+
+.single-article{
+  margin: 1rem;
+  border: 1px solid black;
+}
+
+.thumbnail img{
+  border-radius: 2%;
+}
+
+
+.main-article img{
+  border-radius: 2%;
+}
